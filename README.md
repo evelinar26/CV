@@ -8,7 +8,7 @@
     <a href="https://github.com/evelinar26/CV/blob/main/README.md#general-skills">General Skills</a> | 
     <a href="https://github.com/evelinar26/CV/blob/main/README.md#experience">Experience</a> | 
     <a href="https://github.com/evelinar26/CV/blob/main/README.md#education">Education</a> | 
-    <a href="https://github.com/evelinar26/CV/blob/main/.pdf">CV PDF</a>
+    <a href="https://github.com/evelinar26/CV/blob/main/CV Evelina Ragusa.pdf">CV PDF</a>
   </div>
 </p>
 
@@ -26,9 +26,8 @@ After almost a decade in Online Marketing, I decided to have a deeper technical 
 
 ## Experience
 
-**Jul 2022 - Oct 2022**
-**Makers Academy**
-**Software Development Student**
+**Makers Academy** - Jul 2022 - Oct 2022
+_Software Development Student_
 - 16 week immersive software development course focusing on OOP, TDD, BDD, Agile, SOLID, and MVC principles.
 - Languages: Ruby, JavaScript, HTML/CSS
 - Frameworks/libraries: Sinatra, Rails, React, Express, Node.js, jQuery, Bootstrap, Tailwind APIs: RESTful, 3rd party APIs such as Google and TravelAdvisor
@@ -41,17 +40,6 @@ _Your job title_
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
-
--STAR
--What was the situation/task? (ST)
-
--How was the skill used?
-
--What did you do? (action)
-
--What was the result?
 
 
 #### This Skill
@@ -71,25 +59,12 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
-
 #### Your University / College (start_date to end_date)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
 
 #### Any other qualifications
 
-That in some arguable way make you a better software developer or well-rounded person
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+
