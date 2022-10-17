@@ -33,38 +33,42 @@ _Software Development Student_
 - Frameworks/libraries: Sinatra, Rails, React, Express, Node.js, jQuery, Bootstrap, Tailwind APIs: RESTful, 3rd party APIs such as Google and TravelAdvisor
 - Databases: PostgreSQL, MongoDB Testing suites: RSpec, Jasmine, Jest Version control: Git, GitHub
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**ExpressVPN** (01-2022/07-2022)  
+_Affiliate Marketing Manager_
+- Lead affiliate marketing strategy for incentives and loyalty publishers in UK and EU
+- Provide insights on campaigns performances and deliver against business goals
+- Analyze the website traffic using analytical tool such as Google Analytics
+- Work closely with Data team to provide performances using Tableau and Excel
+- Work closely with SEO and Product Team on suggesting new engaging SEO
+  content/new product releases
 
-- Any experience relevent to software development
+**Rakuten Advertising** (03-2020/01-2022)  
+_Account Manager_
+- Managing a portfolio of 10 clients (retail, beauty, fashion, home and luxury)
+- Develop, execute and track clients online advertising campaigns to ensure they are
+  hitting key channel KPI's
+- Develop relationships with the account portfolio through daily email/phone
+  communication, ad hoc reports and quarterly strategy sessions
+- Manage advertising budget to ensure the client is hitting optimal ROI/ROAS – and
+  advise on where to best invest budget to maximise results
+- Leverage current industry and market insights to help educate and advise clients on
+  the next steps
+ 
+**Lyst** (12-2018/02-2020)  
+_Affiliate coordinator_
 
-## Skills
+**Triboo** (05-2018/11-2018)  
+_Campaign Specialist_
 
+**Groupon EMEA** (2015 - 2018)  
+_Content Manager_
 
-
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence (STAR)
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
 
 ## Education
 
-#### Your University / College (start_date to end_date)
+#### University of Economics and Political
+Science - Milan, Italy /(2013-2015)
+- MSc Marketing
 
-
-#### Any other qualifications
-
-
-## Hobbies
 
 
