@@ -8,7 +8,7 @@
     <a href="https://github.com/evelinar26/CV/blob/main/README.md#general-skills">General Skills</a> | 
     <a href="https://github.com/evelinar26/CV/blob/main/README.md#experience">Experience</a> | 
     <a href="https://github.com/evelinar26/CV/blob/main/README.md#education">Education</a> | 
-    <a href="https://github.com/evelinar26/CV/blob/main/CV Evelina Ragusa(S).pdf">CV PDF</a>
+    <a href="https://github.com/evelinar26/CV/blob/main/CV Evelina Ragusa (S).pdf">CV PDF</a>
   </div>
 </p>
 
